@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://hafizmp.github.io/csb-gxpqn3/static/css/main.296d083c.chunk.css",
+    "main.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/main.d72f6e27.chunk.js",
+    "main.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/main.d72f6e27.chunk.js.map",
+    "runtime-main.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/runtime-main.15ece21f.js",
+    "runtime-main.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/runtime-main.15ece21f.js.map",
+    "static/js/2.fd11858a.chunk.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/2.fd11858a.chunk.js",
+    "static/js/2.fd11858a.chunk.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/2.fd11858a.chunk.js.map",
+    "static/js/3.504fb8d9.chunk.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/3.504fb8d9.chunk.js",
+    "static/js/3.504fb8d9.chunk.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/3.504fb8d9.chunk.js.map",
+    "static/js/4.d80efe5d.chunk.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/4.d80efe5d.chunk.js",
+    "static/js/4.d80efe5d.chunk.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/4.d80efe5d.chunk.js.map",
+    "static/js/5.6386006c.chunk.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/5.6386006c.chunk.js",
+    "static/js/5.6386006c.chunk.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/5.6386006c.chunk.js.map",
+    "static/js/6.19cdb837.chunk.js": "https://hafizmp.github.io/csb-gxpqn3/static/js/6.19cdb837.chunk.js",
+    "static/js/6.19cdb837.chunk.js.map": "https://hafizmp.github.io/csb-gxpqn3/static/js/6.19cdb837.chunk.js.map",
+    "index.html": "https://hafizmp.github.io/csb-gxpqn3/index.html",
+    "static/css/main.296d083c.chunk.css.map": "https://hafizmp.github.io/csb-gxpqn3/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.fd11858a.chunk.js.LICENSE.txt": "https://hafizmp.github.io/csb-gxpqn3/static/js/2.fd11858a.chunk.js.LICENSE.txt",
+    "static/js/5.6386006c.chunk.js.LICENSE.txt": "https://hafizmp.github.io/csb-gxpqn3/static/js/5.6386006c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15ece21f.js",
+    "static/js/2.fd11858a.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.d72f6e27.chunk.js"
+  ]
+}

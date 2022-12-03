@@ -1,0 +1,2 @@
+(this["webpackJsonpspine-ui-dashboard"]=this["webpackJsonpspine-ui-dashboard"]||[]).push([[0],{47:function(e,t,n){},53:function(e,t,n){"use strict";n.r(t);var s=n(16),c=n(33),r=(n(47),n(34)),i=n(21);function o(){return Object(i.jsx)(r.a,{scene:"https://prod.spline.design/XrTp98TX1Az40j1T/scene.splinecode"})}var d=document.getElementById("root");Object(c.createRoot)(d).render(Object(i.jsx)(s.StrictMode,{children:Object(i.jsx)(o,{})}))}},[[53,1,2]]]);
+//# sourceMappingURL=main.d72f6e27.chunk.js.map
